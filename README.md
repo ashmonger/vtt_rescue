@@ -1,2 +1,5 @@
-# vtt_rescue
-Presentation de Rescue au VTT 2023
+# OVH - Very Tech Trip 2023
+
+Presentation about __*Rescue*__
+
+Use [mdp](https://github.com/visit1985/mdp) to read
