@@ -25,6 +25,13 @@ How do you install an OS on a remote server with a blank disk?
 How do you change your password on your remote server?
 
 ---
+-> What is *Rescue*? <-
+
+ * Live OS
+ * Debian based
+ * Multitool @ OVH
+
+---
 -> Philosphy <-
 
 Three fundamental principles
@@ -32,7 +39,7 @@ Three fundamental principles
 Compatibility
  * Homemade Kernel & Homemade Initramfs
  * Kernel working on EVERY single CPU and Motherboard
-    * about 120 differents combinations
+    * about 120 differents combinations (at least)
     * on about 450000 baremetal servers
     * with a lifespan of 15 years
  * Debian, because, you know, debian
